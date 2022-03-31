@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-web-server",
+  "version": "1.0.0",
+  "description": "Latihan backend menggunakan nodejs dari modul dicoding",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/setiadiz12/nodejs-web-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/setiadiz12/nodejs-web-server/issues"
+  },
+  "homepage": "https://github.com/setiadiz12/nodejs-web-server#readme"
+}
